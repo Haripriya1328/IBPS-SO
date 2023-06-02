@@ -1,6 +1,3 @@
-[submodule "bcc-news-webpage"]
-	path = bcc-news-webpage
-	url = https://github.com/Haripriya1328/bcc-news-webpage
 [submodule "bootcamp_shapeai"]
 	path = bootcamp_shapeai
 	url = https://github.com/Haripriya1328/bootcamp_shapeai
